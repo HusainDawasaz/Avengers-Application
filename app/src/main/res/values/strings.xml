@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="tonystark_avengers_com">TonyStark@avengers.com</string>
+    <string name="_222266666">+222266666</string>
+    <string name="steve_rogers">Steve Rogers</string>
+    <string name="_111155555">+111155555</string>
+    <string name="steverogers_avengers_com">SteveRogers@avengers.com</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="blackpanther_avengers_com">BlackPanther@avengers.com</string>
+    <string name="_666633333">+666633333</string>
+    <string name="blackwidow_avengers_com">BlackWidow@avengers.com</string>
+    <string name="black_widow">Black Widow</string>
+    <string name="_555599999">+555599999</string>
+    <string name="black_panther">Black Panther</string>
+    <string name="_444488888">+444488888</string>
+    <string name="hulk_avengers_com">Hulk@avengers.com</string>
+    <string name="hulk">Hulk</string>
+    <string name="_333377777">+333377777</string>
+    <string name="thor_avenger_com">Thor@avenger.com</string>
+    <string name="thor">Thor</string>
+    <string name="preferences_file_name" />
+</resources>
